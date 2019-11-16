@@ -1,4 +1,4 @@
-# nia-midi
+# nia-osc
 This application translates data from OCZ NIA to OSC.
 
 It sends-out the "brain-fingers" as OSC message to the specified IP address and port.
